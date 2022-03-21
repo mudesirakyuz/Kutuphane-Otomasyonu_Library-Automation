@@ -1,4 +1,4 @@
-# Kütüphane Otomasyonu / Library Otomation
+# Kütüphane Otomasyonu / Library Automation
 <img src="gif.gif" width="600"/></br></br>
 ***TR***
 - Temel düzeyde bir kütüphane uygulamasıdır. 
