@@ -1,0 +1,11 @@
+c:\users\amiral\documents\visual studio 2015\Projects\Amator_Kutuphane\Amator_Kutuphane\bin\Debug\Amator_Kutuphane.exe.config
+c:\users\amiral\documents\visual studio 2015\Projects\Amator_Kutuphane\Amator_Kutuphane\bin\Debug\Amator_Kutuphane.exe
+c:\users\amiral\documents\visual studio 2015\Projects\Amator_Kutuphane\Amator_Kutuphane\bin\Debug\Amator_Kutuphane.pdb
+c:\users\amiral\documents\visual studio 2015\Projects\Amator_Kutuphane\Amator_Kutuphane\obj\Debug\Amator_Kutuphane.csprojResolveAssemblyReference.cache
+c:\users\amiral\documents\visual studio 2015\Projects\Amator_Kutuphane\Amator_Kutuphane\obj\Debug\Amator_Kutuphane.Form1.resources
+c:\users\amiral\documents\visual studio 2015\Projects\Amator_Kutuphane\Amator_Kutuphane\obj\Debug\Amator_Kutuphane.Giris.resources
+c:\users\amiral\documents\visual studio 2015\Projects\Amator_Kutuphane\Amator_Kutuphane\obj\Debug\Amator_Kutuphane.Properties.Resources.resources
+c:\users\amiral\documents\visual studio 2015\Projects\Amator_Kutuphane\Amator_Kutuphane\obj\Debug\Amator_Kutuphane.csproj.GenerateResource.Cache
+c:\users\amiral\documents\visual studio 2015\Projects\Amator_Kutuphane\Amator_Kutuphane\obj\Debug\Amator_Kutuphane.exe
+c:\users\amiral\documents\visual studio 2015\Projects\Amator_Kutuphane\Amator_Kutuphane\obj\Debug\Amator_Kutuphane.pdb
+c:\users\amiral\documents\visual studio 2015\Projects\Amator_Kutuphane\Amator_Kutuphane\obj\Debug\Amator_Kutuphane.YeniKayit.resources
